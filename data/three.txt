@@ -1,0 +1,13 @@
+Now, in addition to the persistent liquidity threat from ETFs, we can add two more troubling concerns about ETFs: in addition to making markets more illiquid and discontinuous (recall August 24, 2015), a new scientific study has found that exchange-traded funds also make markets dumber... oh and more expensive.
+
+That, as Bloomberg notes, is the finding of researchers at Stanford University, Emory University and the Interdisciplinary Center of Herzliya in Israel. They’ve uncovered evidence that higher ownership of individual stocks by ETFs widens the bid-ask spreads in those shares, making them more expensive to trade and therefore less attractive.
+
+While it will hardly come as a surprise to traders who notice the pattern every single day, there is now scientific proof that of the phenomenon that stocks eventually turn into drones that move in lockstep with their industry. As Bloomberg points out, it makes life harder for traders seeking informational edges by offering fewer opportunities to capitalize on insights into earnings and other signals. The study is the latest to point out signs of diminished efficiency in markets increasingly overrun by the funds.
+
+“ETFs are clearly an important development in financial markets, which have brought many well-documented benefits to investors,” researchers Doron Israeli, Charles Lee and Suhas Sridharan wrote in a paper last month. “Our evidence suggests the growth of ETFs may have (unintended) long-run consequences for the pricing efficiency of the underlying securities.”
+
+What the study found is that a single percentage point increase in ETF ownership has demonstrable effects on an individual stock. Over the ensuing year, correlation to the share’s industry group and the broader market ticks up 9 percent, while the relationship between its price and future earnings falls 14 percent. Meanwhile, bid-ask spreads rise 1.6 percent and absolute returns grow 2 percent.
+
+The cause? Unsophisticated investors and the ways they buy securities.
+
+Before index funds, Bloomberg adds, traders who thought they knew something others didn’t could turn a profit in transactions with less informed buyers of individual stocks. That disadvantaged cohort now buys ETFs, locking up securities that traders once could pick off when price discrepancies arose.

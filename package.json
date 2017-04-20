@@ -1,0 +1,29 @@
+{
+  "name": "lab-03-fs-readfile",
+  "version": "1.0.0",
+  "description": "Lab 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renegadellama/lab-03-fs-readfile.git"
+  },
+  "author": "Isak Swearingen, Codefellows",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renegadellama/lab-03-fs-readfile/issues"
+  },
+  "homepage": "https://github.com/renegadellama/lab-03-fs-readfile#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
